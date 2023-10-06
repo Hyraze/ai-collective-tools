@@ -23,6 +23,7 @@ Use these hashtags in search to filter out the tools
 - [Art](#art)
 - [Audio Editing](#audio-editing)
 - [Avatars](#avatars)
+- [Chatbots](#chatbots)
 - [Code Assistant](#code-assistant)
 - [Copywriting](#copywriting)
 - [Customer Support](#customer-support)
@@ -47,6 +48,7 @@ Use these hashtags in search to filter out the tools
 - [Life Assistant](#life-assistant)
 - [Logo Generator](#logo-generator)
 - [Low-Code/No-Code](#low-code/no-code)
+- [Models](#models)
 - [Memory](#memory)
 - [Music](#music)
 - [Paraphraser](#paraphraser)
@@ -99,6 +101,15 @@ Use these hashtags in search to filter out the tools
 - [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## Chatbots
+
+- [Bard](https://bard.google.com/) - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
+- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
+- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 
 ## Code Assistant
 
@@ -193,6 +204,22 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Low-Code/No-Code
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Models
+
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
+- [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. #paid
+- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. #free
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource #free
+- [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource #free
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource #free
+- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. #freemium
+
+- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
+  that has been trained on 46 different languages and 13 programming languages. #opensource
+- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
