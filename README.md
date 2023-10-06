@@ -111,6 +111,8 @@ Use these hashtags in search to filter out the tools
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. #free
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. #freemium
 
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Code Assistant
 
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
