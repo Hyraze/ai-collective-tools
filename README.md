@@ -216,9 +216,7 @@ Use these hashtags in search to filter out the tools
 - [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource #free
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource #free
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. #freemium
-
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
-  that has been trained on 46 different languages and 13 programming languages. #opensource
+- [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. #opensource #free
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
