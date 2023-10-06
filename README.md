@@ -129,6 +129,9 @@ Use these hashtags in search to filter out the tools
 
 ## Customer Support
 
+- [Humata AI](https://www.humata.ai/) - ChatGPT for your files. #free
+- [Chatfuel AI](https://chatfuel.com/lite) - AI-powered chatbot platform: elevate customer support and sales #freemium
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Dating
@@ -136,6 +139,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Design Assistant
+
+- [Paintit.ai](https://paintit.ai/interior-ai/) - Paintit.ai is an AI-powered tool that enables users to generate unique AI interior visualizations in minutes #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
