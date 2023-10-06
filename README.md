@@ -78,7 +78,10 @@ Use these hashtags in search to filter out the tools
 
 ## 3D
 
+- [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. #paid
+- [Pixela AI](https://pixela.ai/) - AI-generated game textures. Share yours with the community! #free
 - [Meshy](https://www.meshy.ai) - Create Stunning 3D Game Assets with AI #free
+- [StudioGPT by Latent Labs](https://www.latentlabs.art/) - Reimagine Your Visual Designs with AI-Powered Creativity. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
