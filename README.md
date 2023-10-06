@@ -104,18 +104,24 @@ Use these hashtags in search to filter out the tools
 
 ## Chatbots
 
-- [Bard](https://bard.google.com/) - An experimental AI chatbot by Google, powered by the LaMDA model.
-- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
-- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Bard](https://bard.google.com/) - An experimental AI chatbot by Google, powered by the LaMDA model. #free
+- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing. #free
+- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them. #freemium
+- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. #freemium
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. #free
+- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. #freemium
 
 ## Code Assistant
 
+- [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
+- [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
+- [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Copywriting
+##
+
+- [Heroguide](https://www.heroguide.ai/) - Craft your unique brand message effortlessly with the Heroguide. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
