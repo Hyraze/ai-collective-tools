@@ -6,7 +6,7 @@ aicollective.tools is an exciting new open-source project that aims to gather a 
 
 You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools) to add more services or remove ones whose offerings have changed or been retired.
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://github.com/Hyraze/ai-collective-tools)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
 
 ## Pricing
 
