@@ -78,14 +78,19 @@ Use these hashtags in search to filter out the tools
 
 ## 3D
 
+- [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. #paid
 - [Meshy](https://www.meshy.ai) - Create Stunning 3D Game Assets with AI #free
+- [Pixela AI](https://pixela.ai/) - AI-generated game textures. Share yours with the community! #free
+- [StudioGPT by Latent Labs](https://www.latentlabs.art/) - Reimagine Your Visual Designs with AI-Powered Creativity. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Art
 
 - [Easy-Peasy.ai](https://easy-peasy.ai) - AI copywriting tools to help you tell your story in the most engaging way. #freemium
+- [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator #free
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork #free
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -116,8 +121,8 @@ Use these hashtags in search to filter out the tools
 ## Code Assistant
 
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
-- [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
+- [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -129,8 +134,8 @@ Use these hashtags in search to filter out the tools
 
 ## Customer Support
 
-- [Humata AI](https://www.humata.ai/) - ChatGPT for your files. #free
 - [Chatfuel AI](https://chatfuel.com/lite) - AI-powered chatbot platform: elevate customer support and sales #freemium
+- [Humata AI](https://www.humata.ai/) - ChatGPT for your files. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -201,6 +206,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Generator
+
+- [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
