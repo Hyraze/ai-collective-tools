@@ -339,6 +339,8 @@ Use these hashtags in search to filter out the tools
 
 ## Video Generator
 
+- [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. #freemium
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Resources
