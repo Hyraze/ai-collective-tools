@@ -91,7 +91,6 @@ Use these hashtags in search to filter out the tools
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator #free
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork #free
 
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Audio Editing
@@ -163,6 +162,12 @@ Use these hashtags in search to filter out the tools
 
 ## Education
 
+- [ClassPoint AI](https://www.classpoint.io/) - AI tool for teachers to generate questions out of any PowerPoint slide. #free
+- [Education CoPilot](https://educationcopilot.com/) - AI tool helps teachers design their curriculum, lesson plans and activities, and track the progress of their students. #freemium
+- [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. #free
+- [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. #freemium
+- [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. #freemium
+- [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. #freemium
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. #paid
 - [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. #free
 
