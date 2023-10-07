@@ -155,9 +155,15 @@ Use these hashtags in search to filter out the tools
 
 ## E-Commerce
 
+- [Aidaptive](https://aidaptive.com/request-demo) - Predictive personalization engines for eCommerce and Hospitality #paid
+- [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. #freemium
+- [Lumiere 3D](https://www.lumiere3d.ai/) - This tool is verified because it is either an established company or has good social media presence #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Education
+
+- [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
