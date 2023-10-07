@@ -203,7 +203,9 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Image Generator
+## Image
+
+- [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
