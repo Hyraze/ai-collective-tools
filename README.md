@@ -164,10 +164,13 @@ Use these hashtags in search to filter out the tools
 ## Education
 
 - [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. #free
+- [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Email Assistant
+
+- [Rytr](https://rytr.me/) - AI writing assistant for fast, affordable, high-quality content. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
