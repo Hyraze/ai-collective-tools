@@ -176,9 +176,13 @@ Use these hashtags in search to filter out the tools
 
 ## Experiments
 
+- [Hey Data](https://heydata.org/) - Personalized prompt framework and shortcut suite for Apple devices that replaces Siri with ChatGPT. #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Fashion
+
+- [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
