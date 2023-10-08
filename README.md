@@ -251,6 +251,7 @@ Use these hashtags in search to filter out the tools
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 - [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. #paid
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. #free
+- [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. #free #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource #free
 - [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource #free
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource #free
