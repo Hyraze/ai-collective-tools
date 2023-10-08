@@ -236,6 +236,9 @@ Use these hashtags in search to filter out the tools
 
 ## HealthCare
 
+- [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. #paid
+- [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Human Resources
