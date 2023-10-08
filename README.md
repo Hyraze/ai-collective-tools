@@ -37,6 +37,7 @@ Use these hashtags in search to filter out the tools
 - [Fashion](#fashion)
 - [Finance](#finance)
 - [Fitness](#fitness)
+- [Fun Tools](#funtools)
 - [Gaming](#gaming)
 - [General Writing](#general-writing)
 - [Gift Ideas](#gift-ideas)
@@ -194,17 +195,38 @@ Use these hashtags in search to filter out the tools
 
 ## Finance
 
+- [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. #free
+- [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! #free
+- [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. #freemium
+- [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. #free
+- [Uptrends.ai](https://app.uptrends.ai/trending) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Fitness
+
+- [Hypereficient](https://hyperficient.org/) - Optimizes workout routines for maximum muscle gain in less time. #free
+- [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds #free
+- [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. #paid
+- [Zing Coach](https://zing.body.scan.zingproduction.com/) - AI-powered fitness tool, streamlines the process of evaluating fitness levels #free
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Fun Tools
+
+- [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Gaming
 
+- [Booom.ai](https://joinplayroom.com/games/booom/) - Generate a trivia game using AI #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## General Writing
+
+- [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
