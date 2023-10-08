@@ -91,7 +91,6 @@ Use these hashtags in search to filter out the tools
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator #free
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork #free
 
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Audio Editing
@@ -156,15 +155,21 @@ Use these hashtags in search to filter out the tools
 ## E-Commerce
 
 - [Aidaptive](https://aidaptive.com/request-demo) - Predictive personalization engines for eCommerce and Hospitality #paid
-- [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. #freemium
 - [Lumiere 3D](https://www.lumiere3d.ai/) - This tool is verified because it is either an established company or has good social media presence #paid
+- [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Education
 
-- [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. #free
+- [ClassPoint AI](https://www.classpoint.io/) - AI tool for teachers to generate questions out of any PowerPoint slide. #free
+- [Education CoPilot](https://educationcopilot.com/) - AI tool helps teachers design their curriculum, lesson plans and activities, and track the progress of their students. #freemium
+- [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. #free
+- [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. #freemium
+- [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. #freemium
+- [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. #freemium
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. #paid
+- [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -182,6 +187,7 @@ Use these hashtags in search to filter out the tools
 
 ## Fashion
 
+- [Artificial Printer](https://artificialprinter.com/) - Print personalized t-shirts. #free
 - [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -245,6 +251,7 @@ Use these hashtags in search to filter out the tools
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 - [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. #paid
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. #free
+- [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. #free #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource #free
 - [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource #free
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource #free
