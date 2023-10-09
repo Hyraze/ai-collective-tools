@@ -61,6 +61,7 @@ Use these hashtags in search to filter out the tools
 - [Religion](#religion)
 - [Research](#research)
 - [Resources](#resources)
+- [Resume](#resume)
 - [Sales](#sales)
 - [Search Engine](#search-engine)
 - [SEO](#seo)
@@ -252,6 +253,7 @@ Use these hashtags in search to filter out the tools
 ## Image Generator
 
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
+- [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -327,6 +329,10 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Resources
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Resume
 
 **[⬆️ Back to Top](#table-of-contents)**
 
