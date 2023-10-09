@@ -142,6 +142,9 @@ Use these hashtags in search to filter out the tools
 
 ## Dating
 
+- [Pickmyline](https://www.pickmyline.online/) - Not able to start conversation even after getting matched? Here is a ChatGPT powered pickup line generator for you!! #free
+- [Yourmove.ai](https://www.yourmove.ai/) - Making conversations easier. So you can spend less time texting, and more time dating. #freemium
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Design Assistant
