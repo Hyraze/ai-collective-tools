@@ -252,6 +252,7 @@ Use these hashtags in search to filter out the tools
 ## Image Generator
 
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
+- [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
 **[⬆️ Back to Top](#table-of-contents)**
 
