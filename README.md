@@ -335,6 +335,7 @@ Use these hashtags in search to filter out the tools
 ## Resume
 
 - [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day #freemium
+- [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
