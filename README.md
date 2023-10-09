@@ -61,6 +61,7 @@ Use these hashtags in search to filter out the tools
 - [Religion](#religion)
 - [Research](#research)
 - [Resources](#resources)
+- [Resume](#resume)
 - [Sales](#sales)
 - [Search Engine](#search-engine)
 - [SEO](#seo)
@@ -328,6 +329,10 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Resources
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Resume
 
 **[⬆️ Back to Top](#table-of-contents)**
 
