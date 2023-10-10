@@ -248,6 +248,8 @@ Use these hashtags in search to filter out the tools
 
 ## Human Resources
 
+- [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Editing
