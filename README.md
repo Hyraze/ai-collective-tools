@@ -354,6 +354,8 @@ Use these hashtags in search to filter out the tools
 
 - [PromptFolder](https://promptfolder.com/) - Allows users to create, save, and explore innovative prompts with features like variables, organization, and sharing. #free
 
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Prompts
 
 **[⬆️ Back to Top](#table-of-contents)**
