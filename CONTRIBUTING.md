@@ -12,13 +12,15 @@ Thank you for your interest in contributing to the AI Tools Collective repositor
 
 4. **Submission:** Use the proper Pricing hashtags from [README](README.md) and follow this format `- [Tool Name](Tool Link) - Tool Description #pricing_tag`
 
-5. **Commit and Push:** Commit your changes and push them to your forked repository on GitHub.
+5. **Organize:** Make sure to sort the links alphabetically under each section.
 
-6. **Create a Pull Request:** Create a new pull request from your forked repository to the main branch of AI Tools Collective repository. Provide a clear description of your changes and reference for any related issues.
+6. **Commit and Push:** Commit your changes and push them to your forked repository on GitHub.
 
-7. **Review and Collaboration:** Your pull request will be reviewed by maintainers and contributors. Be prepared to address any feedback or make further improvements.
+7. **Create a Pull Request:** Create a new pull request from your forked repository to the main branch of AI Tools Collective repository. Provide a clear description of your changes and reference for any related issues.
 
-8. **Merge:** Once your pull request is approved, it will be merged into the main repository. Congratulations on your contribution!
+8. **Review and Collaboration:** Your pull request will be reviewed by maintainers and contributors. Be prepared to address any feedback or make further improvements.
+
+9. **Merge:** Once your pull request is approved, it will be merged into the main repository. Congratulations on your contribution!
 
 ## Code of Conduct
 
