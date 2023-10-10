@@ -57,6 +57,7 @@ Use these hashtags in search to filter out the tools
 - [Personalized Videos](#personalized-videos)
 - [Presentations](#presentations)
 - [Productivity](#productivity)
+- [Prompt Generators](#prompt-generator)
 - [Prompts](#prompts)
 - [Real Estate](#real-estate)
 - [Religion](#religion)
@@ -66,6 +67,7 @@ Use these hashtags in search to filter out the tools
 - [Sales](#sales)
 - [Search Engine](#search-engine)
 - [SEO](#seo)
+- [Shopping](#shopping)
 - [Social Media](#social-media)
 - [Spreadsheets](#spreadsheets)
 - [SQL](#sql)
@@ -77,6 +79,7 @@ Use these hashtags in search to filter out the tools
 - [Travel](#travel)
 - [Video Editing](#video-editing)
 - [Video Generator](#video-generator)
+- [Weather](#weather)
 - [Other Resources](#other-resources)
 
 ## 3D
@@ -106,6 +109,7 @@ Use these hashtags in search to filter out the tools
 
 ## Avatars
 
+- [Ascendant Art](https://apps.apple.com/us/app/ascendant-art-ai-avatars/) - Utilizes artificial intelligence to enable users to craft personalized avatar images. #paid
 - [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -123,8 +127,10 @@ Use these hashtags in search to filter out the tools
 
 ## Code Assistant
 
+- [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. #freemium
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
+- [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. #free
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -138,6 +144,7 @@ Use these hashtags in search to filter out the tools
 ## Customer Support
 
 - [Chatfuel AI](https://chatfuel.com/lite) - AI-powered chatbot platform: elevate customer support and sales #freemium
+- [Doks](https://doks.ai/) - Chatbot creation tool that empowers businesses to train chatbots using their website and documentation content. #paid
 - [Humata AI](https://www.humata.ai/) - ChatGPT for your files. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -151,6 +158,7 @@ Use these hashtags in search to filter out the tools
 
 ## Design Assistant
 
+- [Feathery](https://ai.feathery.io/) - Users can design forms in seconds without coding or design skills. #freemium
 - [Paintit.ai](https://paintit.ai/interior-ai/) - Paintit.ai is an AI-powered tool that enables users to generate unique AI interior visualizations in minutes #free
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -220,7 +228,10 @@ Use these hashtags in search to filter out the tools
 
 ## Fun Tools
 
+- [BabbleBox](https://babblebox.ai/) - AI tool that enhances conversational experiences by emulating human-like conversations #free
 - [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 #free
+- [GreenThumb](https://www.messengerx.io/greenthumb) - Unlock the World of Gardening with Your AI Companion #free
+- [SomniAI](https://somniai.com/) - Offers accurate and personalized interpretations of dreams in seconds. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -232,7 +243,9 @@ Use these hashtags in search to filter out the tools
 
 ## General Writing
 
+- [AIEpics](https://aiepics.com/) - Generates unique and copyright-free poems based on user-entered prompts. #opensource #free
 - [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. #free
+- [Incribo](https://incribo.com/) - Your AI Writing Companion. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -250,6 +263,7 @@ Use these hashtags in search to filter out the tools
 ## Human Resources
 
 - [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. #paid
+- [ZapHire](https://www.zap-hire.com/) - AI-Powered Recruitment for Data-Driven Hiring. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -261,6 +275,7 @@ Use these hashtags in search to filter out the tools
 
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
+- [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -283,6 +298,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Low-Code/No-Code
+
+- [Xero.AI](https://www.xerodotai.com/) - No-Code AI Platform for Simplified Machine Learning #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -307,6 +324,8 @@ Use these hashtags in search to filter out the tools
 
 ## Music
 
+- [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Paraphraser
@@ -323,9 +342,17 @@ Use these hashtags in search to filter out the tools
 
 ## Productivity
 
+- [40h](https://40h.io/) - Map your career path and unlock your potential with the guidance of 40h. #paid
+- [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. #free
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. #paid
+- [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. #free
+- [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 #free
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## Prompt Generator
+
+- [PromptFolder](https://promptfolder.com/) - Allows users to create, save, and explore innovative prompts with features like variables, organization, and sharing. #free
 
 ## Prompts
 
@@ -340,6 +367,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Research
+
+- [Lime AI](https://www.datalimeai.com/) - AI-powered research assistant for data-related tasks, designed to streamline and simplify data research and analysis processes. #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -360,13 +389,23 @@ Use these hashtags in search to filter out the tools
 
 ## Search Engine
 
+- [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## SEO
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Shopping
+
+- [Shop Guru AI](https://www.shopguru.io/) - Analyze customer reviews, providing you with trusted answers based on specific product information. #free
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Social Media
+
+- [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -376,19 +415,28 @@ Use these hashtags in search to filter out the tools
 
 ## SQL
 
+- [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more #free
+- [QueryCraft](https://www.querycraft.io/) - AI-Powered Data Query Generator #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Startup Tools
 
+- [Namelix](https://namelix.com/) - Generate short, brandable business names & domain names. #free
 - [Olympia](https://olympia.chat) - AI-powered virtual staffing tool tailored for solopreneurs and bootstrapped startups. #paid
+- [Sidekick](https://www.jigso.io/lp-sidekick) - Get answers from your apps using natural language. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Story Teller
 
+- [Tome](https://beta.tome.app/) - Unlock your best work with AI-powered generative storytelling from Tome. #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Summarizer
+
+- [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -398,9 +446,14 @@ Use these hashtags in search to filter out the tools
 
 ## Transcriber
 
+- [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology #freemium
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Travel
+
+- [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams #free
+- [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -411,6 +464,14 @@ Use these hashtags in search to filter out the tools
 ## Video Generator
 
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. #freemium
+- [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. #freemium
+- [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! #freemium
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Weather
+
+- [Atmo Global Forecast](https://earth.atmo.ai/) - Precision Weather Forecasting with AI #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
