@@ -43,6 +43,7 @@ Use these hashtags in search to filter out the tools
 - [Gift Ideas](#gift-ideas)
 - [HealthCare](#healthcare)
 - [Human Resources](#human-resources)
+- [Interior Designing](#interior-designing)
 - [Image Editing](#image-editing)
 - [Image Generator](#image-generator)
 - [Legal Assistant](#legal-assistant)
@@ -259,6 +260,10 @@ Use these hashtags in search to filter out the tools
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+##  Interior Designing
+
+- [AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit. #free
 
 ## Legal Assistant
 
