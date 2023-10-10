@@ -323,6 +323,8 @@ Use these hashtags in search to filter out the tools
 
 ## Productivity
 
+- [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Prompts
