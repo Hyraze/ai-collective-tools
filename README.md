@@ -481,7 +481,7 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Contributors
+# Contributors
 <a href="https://github.com/Hyraze/ai-collective-tools/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hyraze/ai-collective-tools" />
 </a>
