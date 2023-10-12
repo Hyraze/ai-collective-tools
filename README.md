@@ -51,14 +51,13 @@ Use these hashtags in search to filter out the tools
 - [Logo Generator](#logo-generator)
 - [Low-Code/No-Code](#low-code/no-code)
 - [Models](#models)
-- [Memory](#memory)
 - [Music](#music)
 - [Paraphraser](#paraphraser)
-- [Personalized Videos](#personalized-videos)
 - [Presentations](#presentations)
 - [Productivity](#productivity)
 - [Prompt Generators](#prompt-generator)
 - [Prompts](#prompts)
+- [Psychology](#psychology)
 - [Real Estate](#real-estate)
 - [Religion](#religion)
 - [Research](#research)
@@ -111,6 +110,7 @@ Use these hashtags in search to filter out the tools
 
 - [Ascendant Art](https://apps.apple.com/us/app/ascendant-art-ai-avatars/) - Utilizes artificial intelligence to enable users to craft personalized avatar images. #paid
 - [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. #paid
+- [Staf](https://www.staf.ai/) - Streamline Your Business with Curated AI Solutions #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -130,6 +130,8 @@ Use these hashtags in search to filter out the tools
 - [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. #freemium
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
+- [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development #paid
+- [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement #paid
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. #free
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
 
@@ -138,6 +140,7 @@ Use these hashtags in search to filter out the tools
 ## Copywriting
 
 - [Heroguide](https://www.heroguide.ai/) - Craft your unique brand message effortlessly with the Heroguide. #free
+- [SmartBird](https://smartbird.ai/) - SmartBird: Your AI Assistant for Effortless Communication #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -179,9 +182,11 @@ Use these hashtags in search to filter out the tools
 ## Education
 
 - [ClassPoint AI](https://www.classpoint.io/) - AI tool for teachers to generate questions out of any PowerPoint slide. #free
+- [ClipDish](https://apps.apple.com/us/app/clipdish-simplify-cooking/id1465427291) - AI-Enhanced Recipe Revolution with ClipDish #paid
 - [Education CoPilot](https://educationcopilot.com/) - AI tool helps teachers design their curriculum, lesson plans and activities, and track the progress of their students. #freemium
 - [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. #free
 - [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. #freemium
+- [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity #freemium
 - [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. #freemium
 - [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. #freemium
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. #paid
@@ -213,6 +218,7 @@ Use these hashtags in search to filter out the tools
 - [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. #free
 - [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! #free
 - [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. #freemium
+- [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing #freemium
 - [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. #free
 - [Uptrends.ai](https://app.uptrends.ai/trending) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. #paid
 
@@ -230,6 +236,7 @@ Use these hashtags in search to filter out the tools
 ## Fun Tools
 
 - [BabbleBox](https://babblebox.ai/) - AI tool that enhances conversational experiences by emulating human-like conversations #free
+- [ComicifyAI](https://comicify-ai.vercel.app/) - Turn Text into Captivating Comics with ComicifyAI #free
 - [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 #free
 - [GreenThumb](https://www.messengerx.io/greenthumb) - Unlock the World of Gardening with Your AI Companion #free
 - [SomniAI](https://somniai.com/) - Offers accurate and personalized interpretations of dreams in seconds. #free
@@ -270,6 +277,9 @@ Use these hashtags in search to filter out the tools
 
 ## Image Editing
 
+- [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images #free
+
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Generator
@@ -300,6 +310,7 @@ Use these hashtags in search to filter out the tools
 
 ## Low-Code/No-Code
 
+- [LoginLlama](https://loginllama.app/) - Enhance Security with LoginLlama's Suspicious Login Detection #freemium
 - [Luminal](https://www.csv-gpt.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI #freemium
 - [Xero.AI](https://www.xerodotai.com/) - No-Code AI Platform for Simplified Machine Learning #paid
 
@@ -320,10 +331,6 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Memory
-
-**[⬆️ Back to Top](#table-of-contents)**
-
 ## Music
 
 - [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. #free
@@ -332,13 +339,18 @@ Use these hashtags in search to filter out the tools
 
 ## Paraphraser
 
-**[⬆️ Back to Top](#table-of-contents)**
-
-## Personalized Videos
+- [Better Synonyms](https://www.bettersynonyms.com/) - A convenient way to find better synonyms for words in a specific context. #free
+- [Franz AI](https://chrome.google.com/webstore/detail/franz-ai-text-rewriter/lclcncbdhfpolppomniofbkiaaebaefg) - A Chrome extension to rewrite text using OpenAI API. #free
+- [Penelope AI](https://penelope-ai.vercel.app/) - Speed up writing with paraphrasing, summarizing and story generation #paid
+- [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. #freemium
+- [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology #free
+- [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - This essay rephraser can change the wording of any content #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Presentations
+
+- [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -346,6 +358,8 @@ Use these hashtags in search to filter out the tools
 
 - [40h](https://40h.io/) - Map your career path and unlock your potential with the guidance of 40h. #paid
 - [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. #free
+- [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff #free
+- [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy #paid
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. #paid
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. #free
 - [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 #free
@@ -359,6 +373,12 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Prompts
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Psychology
+
+- [Selfgazer](https://www.selfgazer.com/) - Provides psychological tarot readings for users seeking self-exploration and personal insights through classic tarot symbolism. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -393,11 +413,15 @@ Use these hashtags in search to filter out the tools
 
 ## Search Engine
 
+- [Anse](https://anse.app/) - Your Elegant AI Answer Companion #paid
 - [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search #free
+- [Hai News](https://hai.news/) - Search with generative AI - Hai News #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## SEO
+
+- [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -410,6 +434,7 @@ Use these hashtags in search to filter out the tools
 ## Social Media
 
 - [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker #free
+- [StoriAI](https://storiai.com/) - Elevate Your Brand's Social Presence with StoriAI #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -436,6 +461,7 @@ Use these hashtags in search to filter out the tools
 
 ## Startup Tools
 
+- [DeskDay](https://deskday.ai/) - Revolutionizing IT Support for MSPs #paid
 - [Namelix](https://namelix.com/) - Generate short, brandable business names & domain names. #free
 - [Olympia](https://olympia.chat) - AI-powered virtual staffing tool tailored for solopreneurs and bootstrapped startups. #paid
 - [Sidekick](https://www.jigso.io/lp-sidekick) - Get answers from your apps using natural language. #free
@@ -444,6 +470,7 @@ Use these hashtags in search to filter out the tools
 
 ## Story Teller
 
+- [AI Storyboard Generator](https://boords.com/) - Eliminates the need for drawing skills, enabling quick and easy storyboard creation. #paid
 - [Tome](https://beta.tome.app/) - Unlock your best work with AI-powered generative storytelling from Tome. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -451,6 +478,7 @@ Use these hashtags in search to filter out the tools
 ## Summarizer
 
 - [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries #free
+- [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
