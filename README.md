@@ -300,6 +300,7 @@ Use these hashtags in search to filter out the tools
 
 ## Low-Code/No-Code
 
+- [Luminal](https://www.csv-gpt.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI #freemium
 - [Xero.AI](https://www.xerodotai.com/) - No-Code AI Platform for Simplified Machine Learning #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -414,6 +415,16 @@ Use these hashtags in search to filter out the tools
 
 ## Spreadsheets
 
+- [Arcwise AI](https://arcwise.app/ai) - AI Copilot for Spreadsheets #free
+- [CSV-GPT](https://www.csv-gpt.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. #free
+- [DataDistillr](https://datadistillr.com/) - Integrating your data has never been easier. #paid
+- [Dataspot](https://dataspot.ai/) - Understand any data instantly using AI #freemium
+- [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. #freemium
+- [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! #paid
+- [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. #freemium
+- [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. #freemium
+- [SheetGod](https://www.boloforms.com/sheetgod/) - Effortlessly create and understand formulas in Excel and Google Sheets! #paid
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## SQL
@@ -450,6 +461,7 @@ Use these hashtags in search to filter out the tools
 ## Transcriber
 
 - [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology #freemium
+- [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations #paid
 
 **[⬆️ Back to Top](#table-of-contents)**
 
