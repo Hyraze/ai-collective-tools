@@ -288,6 +288,7 @@ Use these hashtags in search to filter out the tools
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. #paid
+- [Ideogram.ai](https://ideogram.ai) - This tool alows us to generate text inside images. #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
