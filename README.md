@@ -134,6 +134,7 @@ Use these hashtags in search to filter out the tools
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement #paid
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. #free
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. #freemium
+- [Cursor.sh](https://cursor.sh/pricing) - This tool uses GPT-4 to increase productivity #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
