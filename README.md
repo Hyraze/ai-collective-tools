@@ -123,7 +123,6 @@ Use these hashtags in search to filter out the tools
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. #free
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. #freemium
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions #free
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Assistant
@@ -171,6 +170,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Developer
+
+- [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -283,6 +284,7 @@ Use these hashtags in search to filter out the tools
 
 - [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images #free
 
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Generator
@@ -338,7 +340,6 @@ Use these hashtags in search to filter out the tools
 ## Music
 
 - [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. #free
-- [Suno](https://www.suno.ai) - This tool is to create music and speech with AI foundation models #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -490,7 +491,6 @@ Use these hashtags in search to filter out the tools
 ## Text to Speech
 
 - [Dubverse](https://dubverse.ai/text-to-speech/) - AI-powered text-to-speech with Dubverse is accurate, real, and fast! Type, paste, or upload a document & convert text to speech for free. #freemium
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Transcriber
