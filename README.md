@@ -170,7 +170,9 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Developer
+
 - [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. #freemium
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## E-Commerce
