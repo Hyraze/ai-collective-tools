@@ -282,7 +282,6 @@ Use these hashtags in search to filter out the tools
 
 - [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images #free
 
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Image Generator
@@ -488,6 +487,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Text to Speech
+
+- [Dubverse](https://dubverse.ai/text-to-speech/) - AI-powered text-to-speech with Dubverse is accurate, real, and fast! Type, paste, or upload a document & convert text to speech for free. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
