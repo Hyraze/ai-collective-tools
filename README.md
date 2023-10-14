@@ -337,6 +337,7 @@ Use these hashtags in search to filter out the tools
 ## Music
 
 - [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. #free
+- [Suno](https://www.suno.ai) - This tool is to create music and speech with AI foundation models #free
 
 **[⬆️ Back to Top](#table-of-contents)**
 
