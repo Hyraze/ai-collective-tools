@@ -130,6 +130,7 @@ Use these hashtags in search to filter out the tools
 - [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. #freemium
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
+- [Cursor.sh] (https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity #freemium
 - [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development #paid
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement #paid
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. #free
@@ -284,6 +285,7 @@ Use these hashtags in search to filter out the tools
 
 ## Image Generator
 
+- [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image #free
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine #freemium
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. #paid
