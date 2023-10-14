@@ -2,11 +2,11 @@
 
 Explore a curated selection of AI tools and resources at aicollective.tools.
 
-aicollective.tools is an exciting new open-source project that aims to gather a comprehensive collection of AI tools. We are actively seeking enthusiastic contributors to help us build and expand this valuable resource.
-
-You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services or remove ones whose offerings have changed or been retired.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
+
+<a href="https://www.producthunt.com/posts/ai-collective-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;collective&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835&theme=light" alt="AI&#0032;Collective&#0032;Tools - Explore&#0032;a&#0032;curated&#0032;selection&#0032;of&#0032;AI&#0032;tools&#0032;and&#0032;resources&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Pricing
 
@@ -165,7 +165,7 @@ Use these hashtags in search to filter out the tools
 
 - [Feathery](https://ai.feathery.io/) - Users can design forms in seconds without coding or design skills. #freemium
 - [Paintit.ai](https://paintit.ai/interior-ai/) - Paintit.ai is an AI-powered tool that enables users to generate unique AI interior visualizations in minutes #free
-- [AI Site Builder](https://library.relume.io/ai-site-builder) - Create a marketing website for any company in minutes using systems you already love. #freemium 
+- [AI Site Builder](https://library.relume.io/ai-site-builder) - Create a marketing website for any company in minutes using systems you already love. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -296,7 +296,7 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-##  Interior Designing
+## Interior Designing
 
 - [AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit. #free
 
@@ -531,6 +531,7 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 # Contributors
+
 <a href="https://github.com/Hyraze/ai-collective-tools/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hyraze/ai-collective-tools" />
 </a>
