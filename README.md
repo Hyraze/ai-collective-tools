@@ -4,7 +4,7 @@ Explore a curated selection of AI tools and resources at aicollective.tools.
 
 aicollective.tools is an exciting new open-source project that aims to gather a comprehensive collection of AI tools. We are actively seeking enthusiastic contributors to help us build and expand this valuable resource.
 
-You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools) to add more services or remove ones whose offerings have changed or been retired.
+You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
 
