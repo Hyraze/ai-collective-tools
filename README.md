@@ -512,6 +512,7 @@ Use these hashtags in search to filter out the tools
 ## Video Generator
 
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. #freemium
+- [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. #freemium
 - [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. #freemium
 - [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! #freemium
 
