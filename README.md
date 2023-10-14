@@ -123,6 +123,7 @@ Use these hashtags in search to filter out the tools
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. #free
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. #freemium
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions #free
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Assistant
@@ -130,7 +131,7 @@ Use these hashtags in search to filter out the tools
 - [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. #freemium
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. #free
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe #paid
-- [Cursor.sh] (https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity #freemium
+- [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity #freemium
 - [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development #paid
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement #paid
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. #free
