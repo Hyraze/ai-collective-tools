@@ -197,6 +197,7 @@ Use these hashtags in search to filter out the tools
 ## Email Assistant
 
 - [Rytr](https://rytr.me/) - AI writing assistant for fast, affordable, high-quality content. #freemium
+- [Zapier](https://zapier.com/blog/best-ai-email-assistant/) - Discover the top AI email assistants that streamline your inbox and supercharge your productivity. #freemium
 
 **[⬆️ Back to Top](#table-of-contents)**
 
