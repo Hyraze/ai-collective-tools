@@ -92,9 +92,9 @@
 
         // Check if the URL already has a query parameter
         if (href.includes('?')) {
-          allLinks[i].href = href + '&ref='+window.location.origin; // Append this website as reference
+          allLinks[i].href = href + '&ref='+window.location.hostname; // Append this website as reference
         } else {
-          allLinks[i].href = href + '?ref='+window.location.origin; // Append this website as reference
+          allLinks[i].href = href + '?ref='+window.location.hostname; // Append this website as reference
         }
       }
 
