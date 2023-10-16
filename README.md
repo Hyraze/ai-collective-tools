@@ -99,7 +99,6 @@ Use these hashtags in search to filter out the tools
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator #free
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork #free
 
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Audio Editing
