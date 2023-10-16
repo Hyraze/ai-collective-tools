@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the AI Tools Collective repositor
 
 3. **Make Changes:** Implement your changes or additions in the forked repository and update the documentation accordingly.
 
-4. **Submission:** Use the proper Pricing hashtags from [README](README.md) and follow this format `- [Tool Name](Tool Link) - Tool Description #pricing_tag`
+4. **Submission:** Use the proper Pricing hashtags from [README](README.md) and follow this format `- [Tool Name](Tool Link) - Tool Description \`#pricing_tag\``
 
 5. **Organize:** Make sure to sort the links alphabetically under each section.
 
