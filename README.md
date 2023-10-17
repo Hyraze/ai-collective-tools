@@ -362,6 +362,7 @@ Use these hashtags in search to filter out the tools
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource `#free`
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 - [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. #opensource `#free`
+- [Qwen](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud.  `#free`
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
