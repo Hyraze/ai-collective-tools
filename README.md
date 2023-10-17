@@ -286,6 +286,21 @@ Use these hashtags in search to filter out the tools
 - [Giftmethat](https://www.giftmethat.io/) - Revolutionizing Gift-Giving : GiftMeThat's AI-Powered Platform `#free`
 - [Imajinn.ai](https://imajinn.ai/portrait) - Imajinn AIP's AI Couple Portrait Canvas is a one-of-a-kind and romantic way to immortalize your love. `#paid`
 - [Intelli Gift](https://intelli.gift/) - Gift smarter with intelli.gift - The AI-powered gift advisor `#free`
+- [Lazy Cards](https://lazy.cards/) - Lazy Cards is a convenient and thoughtful service that offers AI-written greeting cards for various occasions `#free`
+- [Magic Type AI](https://www.magictype.ai/) - Write greetings, poetry and rap lyrics using AI. `#free`
+- [Outdone](https://www.outdone.io/) - Outdone is a gift recommender that simplifies the process of shopping for special occasions `#free`
+- [Perfectgift](https://perfectgift.ai/) - PerfectGift.AI is an AI-powered tool that generates personalized gift ideas for any occasion by utilizing advanced Artificial Intelligence algorithms. `#free`
+- [Santa AI](https://www.santa.artflow.ai/) - Create your own unique Santa video greeting `#free`
+- [Silly Robot Cards](https://www.sillyrobotcards.com/) - Customized greeting card design with unique touch. `#paid`
+- [Smart Gift AI](https://smartgiftai.com/) - AI-powered gifting platform `#free`
+- [Snappy](https://snappygifts.com/home) - Send personalized choices—for any budget or occasion, now or later—and let the recipient pick the gift they want.`#free`
+- [Spread Positivity Today](https://spreadpositivitytoday.com/) - Send a Note. Spread Joy. `#free`
+- [Suggest Gift](https://suggest.gift/) - https://suggest.gift/ - `#free`
+- [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
+- [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
+- [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
+
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
