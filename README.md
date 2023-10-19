@@ -1,10 +1,18 @@
 # aicollective.tools
 
-Explore a curated selection of AI tools and resources at aicollective.tools.
+Explore a curated selection of AI tools and resources.
 
 We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fai-collective-tools&countColor=%2337d67a&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/Hyraze/ai-collective-tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/ai-collective-tools)  
+![Github](https://img.shields.io/github/license/Hyraze/ai-collective-tools)
+![GitHub issues](https://img.shields.io/github/issues/Hyraze/ai-collective-tools)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/ai-collective-tools)
 
 <a href="https://www.producthunt.com/posts/ai-collective-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;collective&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835&theme=light" alt="AI&#0032;Collective&#0032;Tools - Explore&#0032;a&#0032;curated&#0032;selection&#0032;of&#0032;AI&#0032;tools&#0032;and&#0032;resources&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
