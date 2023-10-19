@@ -421,6 +421,7 @@ Use these hashtags in search to filter out the tools
 - [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
+- [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
 - [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -538,6 +539,8 @@ Use these hashtags in search to filter out the tools
 ## Summarizer
 
 - [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
+- [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
+- [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 - [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
 - [Too Long](https://toolongapp.com/) - Your Article Summarization Companion `#free`
 
