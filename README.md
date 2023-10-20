@@ -55,7 +55,6 @@ Use these hashtags in search to filter out the tools
 - [Image Editing](#image-editing)
 - [Image Generator](#image-generator)
 - [Legal Assistant](#legal-assistant)
-- [Life Assistant](#life-assistant)
 - [Logo Generator](#logo-generator)
 - [Low-Code/No-Code](#low-code/no-code)
 - [Models](#models)
@@ -64,12 +63,10 @@ Use these hashtags in search to filter out the tools
 - [Presentations](#presentations)
 - [Productivity](#productivity)
 - [Prompt Generators](#prompt-generator)
-- [Prompts](#prompts)
 - [Psychology](#psychology)
 - [Real Estate](#real-estate)
 - [Religion](#religion)
 - [Research](#research)
-- [Resources](#resources)
 - [Resume](#resume)
 - [Sales](#sales)
 - [Search Engine](#search-engine)
@@ -133,6 +130,7 @@ Use these hashtags in search to filter out the tools
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
+- [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -205,6 +203,7 @@ Use these hashtags in search to filter out the tools
 - [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. `#freemium`
 - [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
+- [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
 - [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -360,10 +359,6 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Life Assistant
-
-**[⬆️ Back to Top](#table-of-contents)**
-
 ## Logo Generator
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -434,10 +429,6 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Prompts
-
-**[⬆️ Back to Top](#table-of-contents)**
-
 ## Psychology
 
 - [Selfgazer](https://www.selfgazer.com/) - Provides psychological tarot readings for users seeking self-exploration and personal insights through classic tarot symbolism. `#free`
@@ -446,19 +437,29 @@ Use these hashtags in search to filter out the tools
 
 ## Real Estate
 
+- [HomeByte](https://homebyte.com/) - Find your dream home with the most advanced home search on the planet. `#free`
+- [IACrea](https://iacrea.com/) - AI-powered Home Staging Solution `#paid`
+- [InteriorAI](https://interiorai.com/) - Interior design ideas using Artificial Intelligence `#paid`
+- [RealtyNinja](https://get.realtyninja.com/ai-listing-description-generator) - AI Listing Description Generator `#free`
+- [RealtyGenius](https://realtygenius.ai/) - Offers efficient document management and collaboration functionalities for real estate professionals. `#freemium`
+- [VirtualStagingAI](https://www.virtualstagingai.app/) - Virtually stage in one click `#paid`
+- [Virtual House Flip](https://www.virtualhouseflip.com/) - Remodel homes using AI for stunning results `#paid`
+- [Write.homes](https://write.homes/) - The ultimate real estate content creation tool `#free`
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Religion
+
+- [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
+- [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
+- [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
+- [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Research
 
 - [Lime AI](https://www.datalimeai.com/) - AI-powered research assistant for data-related tasks, designed to streamline and simplify data research and analysis processes. `#paid`
-
-**[⬆️ Back to Top](#table-of-contents)**
-
-## Resources
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -470,6 +471,8 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Sales
+
+- [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. Start Free Now! `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -562,12 +565,15 @@ Use these hashtags in search to filter out the tools
 
 ## Travel
 
+- [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
 - [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 - [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Video Editing
+
+- [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
