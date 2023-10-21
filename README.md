@@ -365,6 +365,7 @@ Use these hashtags in search to filter out the tools
 - [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool.  `#freemium`
 - [Placeit](https://placeit.net/) - user-friendly design platform that can be used to create logos, mockups, and videos. `#paid`
 - [Zarla](https://www.zarla.com/) - Zarla uses AI to generate unique logo designs through various prompts. `#free`
+- [Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
