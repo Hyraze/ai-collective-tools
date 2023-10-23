@@ -428,6 +428,7 @@ Use these hashtags in search to filter out the tools
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
 - [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
 - [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
+- [Taskade](https://www.taskade.com/) - Taskade elegantly unifies your team tasks, notes, and mind, stripping away the noise to reveal the essence of productivity. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
