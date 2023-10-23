@@ -535,7 +535,9 @@ Use these hashtags in search to filter out the tools
 
 ## Startup Tools
 
+- [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. `#free`
 - [DeskDay](https://deskday.ai/) - Revolutionizing IT Support for MSPs `#paid`
+- [Jasper AI](https://www.jasper.ai/) - Jasper is an AI copilot for enterprise marketing teams. `#paid`
 - [Namelix](https://namelix.com/) - Generate short, brandable business names & domain names. `#free`
 - [Olympia](https://olympia.chat) - AI-powered virtual staffing tool tailored for solopreneurs and bootstrapped startups. `#paid`
 - [Rasgo](https://www.rasgoml.com/) - Your Self-Service AI Analytics Revolution `#free`
@@ -546,6 +548,8 @@ Use these hashtags in search to filter out the tools
 ## Story Teller
 
 - [AI Storyboard Generator](https://boords.com/) - Eliminates the need for drawing skills, enabling quick and easy storyboard creation. `#paid`
+- [Plot Factory](https://plotfactory.com/) - An online collaborative story planner that lets writers plan, organize, and write stories & fictional universes. `#paid`
+- [Sudowrite](https://www.sudowrite.com/) - The model generates text by guessing what's most likely to come next, one word at a time. Kind of like autocomplete on your phone. `#paid`
 - [Tome](https://beta.tome.app/) - Unlock your best work with AI-powered generative storytelling from Tome. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
