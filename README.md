@@ -112,6 +112,7 @@ Use these hashtags in search to filter out the tools
 - [Easy-Peasy.ai](https://easy-peasy.ai) - AI copywriting tools to help you tell your story in the most engaging way. `#freemium`
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator `#free`
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork `#free`
+- [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
