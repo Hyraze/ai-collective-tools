@@ -314,7 +314,6 @@ Use these hashtags in search to filter out the tools
 - [Smart Gift AI](https://smartgiftai.com/) - AI-powered gifting platform `#free`
 - [Snappy](https://snappygifts.com/home) - Send personalized choices—for any budget or occasion, now or later—and let the recipient pick the gift they want.`#free`
 - [Spread Positivity Today](https://spreadpositivitytoday.com/) - Send a Note. Spread Joy. `#free`
-- [Suggest Gift](https://suggest.gift/) - https://suggest.gift/ - `#free`
 - [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
 - [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
 - [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
