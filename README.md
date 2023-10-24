@@ -575,6 +575,7 @@ Use these hashtags in search to filter out the tools
 ## Text to Speech
 
 - [Dubverse](https://dubverse.ai/text-to-speech/) - AI-powered text-to-speech with Dubverse is accurate, real, and fast! Type, paste, or upload a document & convert text to speech for free. `#freemium`
+- [ElevenLabs](https://elevenlabs.io/) - AI-powered text-to-speech and voice cloning technology.`#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
