@@ -23,6 +23,7 @@ Use these hashtags in search to filter out the tools
 - `#free`
 - `#freemium`
 - `#paid`
+- `#opensource`
 
 # Table of Contents
 
@@ -89,10 +90,19 @@ Use these hashtags in search to filter out the tools
 ## 3D
 
 - [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. `#paid`
+- [Any Image to 3D](https://www.csm.ai/any-image-to-3d) - Simplifies the process of converting 2D images into fully detailed 3D models, catering to industries like gaming, robotics, mixed reality, VFX, and e-commerce. `#free`
+- [OctoEverywhere](https://octoeverywhere.com/) - OctoEverywhere is a 3D printing failure detection assistant that uses computer vision algorithms to detect printing errors such as spaghetti, layer shifts, adhesion issues, and more `#paid`
+- [Spyne](https://www.spyne.ai/) - Spyne is helping used-car dealerships and marketplaces create engaging VDPs with 360° views and images that sell better. `#paid`
 - [GET3D-Nvidia](https://nv-tlabs.github.io/GET3D/) - Generative 3D Textured Shapes from Images. `#free`
 - [Meshy](https://www.meshy.ai) - Create Stunning 3D Game Assets with AI `#free`
 - [Pixela AI](https://pixela.ai/) - AI-generated game textures. Share yours with the community! `#free`
 - [StudioGPT by Latent Labs](https://www.latentlabs.art/) - Reimagine Your Visual Designs with AI-Powered Creativity. `#paid`
+- [Pool Planner AI](https://poolplannerai.com/) - Visualize Your Dream Pool Design `#paid`
+- [Omnia](https://www.theomnia.io/) - Create 3D models based on text prompts or uploaded images. `#paid`
+- [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
+- [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
+- [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
+- 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -164,8 +174,8 @@ Use these hashtags in search to filter out the tools
 
 ## Dating
 
-- [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `freemium`
-- [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `paid`
+- [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `#freemium`
+- [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `#paid`
 - [Dates.ai](https://www.dates.ai) - Dates.ai: Where authenticity meets AI to revolutionize dating, fostering genuine connections in a fraud-free and fair environment. `#free`
 - [Pickmyline](https://www.pickmyline.online/) - Not able to start conversation even after getting matched? Here is a ChatGPT powered pickup line generator for you!! `#free`
 - [Yourmove.ai](https://www.yourmove.ai/) - Making conversations easier. So you can spend less time texting, and more time dating. `#freemium`
@@ -308,8 +318,6 @@ Use these hashtags in search to filter out the tools
 - [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
 - [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
 
-
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## HealthCare
@@ -384,12 +392,12 @@ Use these hashtags in search to filter out the tools
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 - [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. `#paid`
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. `#free`
-- [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. `#free` #opensource
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource `#free`
+- [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. `#free` `#opensource`
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 - [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource `#free`
-- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource `#free`
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
-- [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. #opensource `#free`
+- [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
 - [Qwen](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud.  `#free`
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
@@ -567,6 +575,7 @@ Use these hashtags in search to filter out the tools
 ## Text to Speech
 
 - [Dubverse](https://dubverse.ai/text-to-speech/) - AI-powered text-to-speech with Dubverse is accurate, real, and fast! Type, paste, or upload a document & convert text to speech for free. `#freemium`
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Transcriber
