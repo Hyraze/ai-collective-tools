@@ -356,6 +356,7 @@ Use these hashtags in search to filter out the tools
 - [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
+- [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
