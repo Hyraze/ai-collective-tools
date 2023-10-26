@@ -351,6 +351,7 @@ Use these hashtags in search to filter out the tools
 ## Image Generator
 
 - [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
+- [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
 - [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
