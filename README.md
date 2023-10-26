@@ -33,6 +33,7 @@ Use these hashtags in search to filter out the tools
 - [Avatars](#avatars)
 - [Chatbots](#chatbots)
 - [Code Assistant](#code-assistant)
+- [Cooking](#cooking)
 - [Copywriting](#copywriting)
 - [Customer Support](#customer-support)
 - [Dating](#dating)
@@ -156,6 +157,12 @@ Use these hashtags in search to filter out the tools
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
 - [Blackbox](https://blackbox.dev/) - Blackbox is an AI-powered code editor that helps developers write code faster and more efficiently. `#freemium`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Cooking
+
+- [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
