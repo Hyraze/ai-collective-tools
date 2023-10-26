@@ -114,6 +114,7 @@ Use these hashtags in search to filter out the tools
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator `#free`
 - [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork `#free`
 - [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
+- [seaart.ai](https://www.seaart.ai/) - AI image generation tool with advanced configurations available, tons of ready to use models and image enhancements, text to img , img to text and much. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -291,6 +292,8 @@ Use these hashtags in search to filter out the tools
 - [AIEpics](https://aiepics.com/) - Generates unique and copyright-free poems based on user-entered prompts. #opensource `#free`
 - [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
 - [Incribo](https://incribo.com/) - Your AI Writing Companion. `#paid`
+- [QuillBot](https://quillbot.com/) - An AI writing assistance, paraphrasing tool, Plagiarism Checker, Citation generator `#free`
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
