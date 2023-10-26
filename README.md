@@ -4,7 +4,7 @@ Explore a curated selection of AI tools and resources.
 
 We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools) 
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fai-collective-tools&countColor=%2337d67a&style=flat)
@@ -102,7 +102,7 @@ Use these hashtags in search to filter out the tools
 - [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
 - [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
 - [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
-- 
+-
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -147,6 +147,7 @@ Use these hashtags in search to filter out the tools
 
 ## Code Assistant
 
+- [Blackbox](https://blackbox.dev/) - Blackbox is an AI-powered code editor that helps developers write code faster and more efficiently. `#freemium`
 - [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. `#freemium`
 - [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
@@ -155,7 +156,6 @@ Use these hashtags in search to filter out the tools
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
-- [Blackbox](https://blackbox.dev/) - Blackbox is an AI-powered code editor that helps developers write code faster and more efficiently. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -365,6 +365,7 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Legal Assistant
+
 - [Casetext](https://casetext.com/) - an award-winning legal AI company developing cutting-edge tech for 10+ years. `#paid`
 - [DoNotPay](https://donotpay.com/) - DoNotPay is an online legal service and chatbot. `#paid`
 - [Latch](https://www.latchapp.com/) - Latch helps legal teams reduce the time, effort, and cost spent towards negotiating agreements. `#paid`
@@ -373,7 +374,7 @@ Use these hashtags in search to filter out the tools
 
 ## Logo Generator
 
-- [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool.  `#freemium`
+- [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool. `#freemium`
 - [Placeit](https://placeit.net/) - user-friendly design platform that can be used to create logos, mockups, and videos. `#paid`
 - [Zarla](https://www.zarla.com/) - Zarla uses AI to generate unique logo designs through various prompts. `#free`
 - [Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love. `#free`
@@ -399,7 +400,7 @@ Use these hashtags in search to filter out the tools
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 - [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-- [Qwen](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud.  `#free`
+- [Qwen](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
