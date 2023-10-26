@@ -533,6 +533,7 @@ Use these hashtags in search to filter out the tools
 
 ## Spreadsheets
 
+- [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
 - [Arcwise AI](https://arcwise.app/ai) - AI Copilot for Spreadsheets `#free`
 - [CSV-GPT](https://www.csv-gpt.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
 - [DataDistillr](https://datadistillr.com/) - Integrating your data has never been easier. `#paid`
