@@ -33,6 +33,7 @@ Use these hashtags in search to filter out the tools
 - [Avatars](#avatars)
 - [Chatbots](#chatbots)
 - [Code Assistant](#code-assistant)
+- [Cooking](#cooking)
 - [Copywriting](#copywriting)
 - [Customer Support](#customer-support)
 - [Dating](#dating)
@@ -156,6 +157,12 @@ Use these hashtags in search to filter out the tools
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Cooking
+
+- [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
