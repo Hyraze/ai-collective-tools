@@ -1,6 +1,6 @@
 # aicollective.tools
 
-Explore a curated selection of AI tools and resources.
+> Explore a curated selection of AI tools and resources.
 
 We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
@@ -46,25 +46,25 @@ Use these hashtags in search to filter out the tools
 - [Fashion](#fashion)
 - [Finance](#finance)
 - [Fitness](#fitness)
-- [Fun Tools](#funtools)
+- [Fun Tools](#fun-tools)
 - [Gaming](#gaming)
 - [General Writing](#general-writing)
 - [Gift Ideas](#gift-ideas)
 - [HealthCare](#healthcare)
 - [Human Resources](#human-resources)
 - [Image Classification](#image-classification)
-- [Interior Designing](#interior-designing)
 - [Image Editing](#image-editing)
 - [Image Generator](#image-generator)
+- [Interior Designing](#interior-designing)
 - [Legal Assistant](#legal-assistant)
 - [Logo Generator](#logo-generator)
-- [Low-Code/No-Code](#low-code/no-code)
+- [Low Code](#low-code)
 - [Models](#models)
 - [Music](#music)
 - [Paraphraser](#paraphraser)
 - [Presentations](#presentations)
 - [Productivity](#productivity)
-- [Prompt Generators](#prompt-generator)
+- [Prompt Generator](#prompt-generator)
 - [Psychology](#psychology)
 - [Real Estate](#real-estate)
 - [Religion](#religion)
@@ -393,7 +393,7 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Low-Code/No-Code
+## Low Code
 
 - [LoginLlama](https://loginllama.app/) - Enhance Security with LoginLlama's Suspicious Login Detection `#freemium`
 - [Luminal](https://www.csv-gpt.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
