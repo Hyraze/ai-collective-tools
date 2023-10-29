@@ -9,8 +9,7 @@ We're thrilled to invite you to this our open-source community dedicated in crea
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fai-collective-tools&countColor=%2337d67a&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/Hyraze/ai-collective-tools)
-![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/ai-collective-tools) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield)
- 
+![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/ai-collective-tools) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield) 
 ![Github](https://img.shields.io/github/license/Hyraze/ai-collective-tools)
 ![GitHub issues](https://img.shields.io/github/issues/Hyraze/ai-collective-tools)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/ai-collective-tools)
@@ -641,12 +640,11 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+# License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_large)
+
 # Contributors
 
 <a href="https://github.com/Hyraze/ai-collective-tools/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hyraze/ai-collective-tools" />
 </a>
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_large)
