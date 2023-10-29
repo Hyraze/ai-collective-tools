@@ -90,6 +90,7 @@ Use these hashtags in search to filter out the tools
 
 ## 3D
 
+- [3DFY](https://app.3dfy.ai/) - Generate high-quality 3D models, automatically, in certain object categories using text-prompts. `#paid`
 - [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. `#paid`
 - [Any Image to 3D](https://www.csm.ai/any-image-to-3d) - Simplifies the process of converting 2D images into fully detailed 3D models, catering to industries like gaming, robotics, mixed reality, VFX, and e-commerce. `#free`
 - [OctoEverywhere](https://octoeverywhere.com/) - OctoEverywhere is a 3D printing failure detection assistant that uses computer vision algorithms to detect printing errors such as spaghetti, layer shifts, adhesion issues, and more `#paid`
