@@ -38,6 +38,7 @@ Use these hashtags in search to filter out the tools
 - [Customer Support](#customer-support)
 - [Dating](#dating)
 - [Design Assistant](#design-assistant)
+- [Design Generator](#design-generator)
 - [Developer](#developer)
 - [E-Commerce](#e-commerce)
 - [Education](#education)
@@ -200,6 +201,10 @@ Use these hashtags in search to filter out the tools
 - [AI Site Builder](https://library.relume.io/ai-site-builder) - Create a marketing website for any company in minutes using systems you already love. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## Design Generator
+
+- [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 
 ## Developer
 
