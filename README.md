@@ -62,6 +62,7 @@ Use these hashtags in search to filter out the tools
 - [Models](#models)
 - [Music](#music)
 - [Paraphraser](#paraphraser)
+- [Photo Generator](#photo-generator)
 - [Presentations](#presentations)
 - [Productivity](#productivity)
 - [Prompt Generator](#prompt-generator)
@@ -433,6 +434,12 @@ Use these hashtags in search to filter out the tools
 - [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. `#freemium`
 - [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology `#free`
 - [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - This essay rephraser can change the wording of any content `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Photo Generator
+
+- [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
