@@ -62,7 +62,6 @@ Use these hashtags in search to filter out the tools
 - [Models](#models)
 - [Music](#music)
 - [Paraphraser](#paraphraser)
-- [Photo Generator](#photo-generator)
 - [Presentations](#presentations)
 - [Productivity](#productivity)
 - [Prompt Generator](#prompt-generator)
@@ -266,6 +265,7 @@ Use these hashtags in search to filter out the tools
 
 ## Fitness
 
+- [Alpa AI](https://www.alfa-ai.com/) - To train the right way without depending on anyone but their self-anytime, everywhere. `#freemium`
 - [Hypereficient](https://hyperficient.org/) - Optimizes workout routines for maximum muscle gain in less time. `#free`
 - [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds `#free`
 - [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. `#paid`
@@ -363,6 +363,8 @@ Use these hashtags in search to filter out the tools
 
 ## Image Generator
 
+- [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
+
 - [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
 - [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
@@ -434,12 +436,6 @@ Use these hashtags in search to filter out the tools
 - [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. `#freemium`
 - [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology `#free`
 - [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - This essay rephraser can change the wording of any content `#free`
-
-**[⬆️ Back to Top](#table-of-contents)**
-
-## Photo Generator
-
-- [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
