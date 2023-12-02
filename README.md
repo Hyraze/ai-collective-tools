@@ -29,6 +29,7 @@ Use these hashtags in search to filter out the tools
 # Table of Contents
 
 - [3D](#3d)
+- [Agriculture](#agriculture)
 - [Art](#art)
 - [Audio Editing](#audio-editing)
 - [Avatars](#avatars)
@@ -89,6 +90,7 @@ Use these hashtags in search to filter out the tools
 - [Video Editing](#video-editing)
 - [Video Generator](#video-generator)
 - [Weather](#weather)
+- [Writing Generator](#writing-generator)
 - [Other Resources](#other-resources)
 
 ## 3D
@@ -111,6 +113,14 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Agriculture
+
+- [Cybertiks](https://cybertiks.com/) - Revolutionizing Agriculture and Environmental Monitoring with AI `#paid`
+- [GreenThumb](https://www.messengerx.io/) - Unlock the World of Gardening with Your AI Companion `#free`
+- [Vinetribe](https://vinetribe.co/concierge) - Fosters an inclusive wine community through guided at-home tastings `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Art
 
 - [BlueWillow](https://www.bluewillow.ai) - Prompt based AI image generating tool for logos, characters, digital artwork, etc. `#free`
@@ -124,6 +134,7 @@ Use these hashtags in search to filter out the tools
 
 ## Audio Editing
 
+- [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
 - [Audiogen](https://www.audiogen.co/) - Elevate Your Creations with AI-Generated Sounds `#freemium`
 - [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
 - [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
@@ -223,6 +234,7 @@ Use these hashtags in search to filter out the tools
 ## E-Commerce
 
 - [Aidaptive](https://aidaptive.com/request-demo) - Predictive personalization engines for eCommerce and Hospitality `#paid`
+- [Hulk](https://hulkhelper-ai.webflow.io/) - Personalized Shopping Experience `#free`
 - [Lumiere 3D](https://www.lumiere3d.ai/) - This tool is verified because it is either an established company or has good social media presence `#paid`
 - [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. `#freemium`
 
@@ -236,6 +248,7 @@ Use these hashtags in search to filter out the tools
 - [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. `#free`
 - [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. `#freemium`
 - [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity `#freemium`
+- [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
 - [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. `#freemium`
 - [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
@@ -291,6 +304,7 @@ Use these hashtags in search to filter out the tools
 
 - [BabbleBox](https://babblebox.ai/) - AI tool that enhances conversational experiences by emulating human-like conversations `#free`
 - [ComicifyAI](https://comicify-ai.vercel.app/) - Turn Text into Captivating Comics with ComicifyAI `#free`
+- [Convenient Hairstyle](https://hairstyle.cvhtechnology.com/) - Transform Your Look with Personalized Hairstyle Exploration `#free`
 - [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 `#free`
 - [GreenThumb](https://www.messengerx.io/greenthumb) - Unlock the World of Gardening with Your AI Companion `#free`
 - [SomniAI](https://somniai.com/) - Offers accurate and personalized interpretations of dreams in seconds. `#free`
@@ -387,6 +401,7 @@ Use these hashtags in search to filter out the tools
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
 - [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 - [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
+- [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -467,6 +482,7 @@ Use these hashtags in search to filter out the tools
 - [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
 - [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
+- [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
 - [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
 - [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
@@ -538,6 +554,7 @@ Use these hashtags in search to filter out the tools
 ## SEO
 
 - [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
+- [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
 - [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
 - [Surfer SEO](https://surferseo.com/) - SEO tool that helps users optimize their content for better search engine rankings. `#paid`
 - [GrowthBar](https://www.growthbarseo.com/) - SEO tool designed to help marketers, bloggers, and content teams create SEO-friendly content. `#paid`
@@ -604,6 +621,8 @@ Use these hashtags in search to filter out the tools
 ## Summarizer
 
 - [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
+- [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
+- [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
 - [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
 - [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 - [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
@@ -652,6 +671,12 @@ Use these hashtags in search to filter out the tools
 - [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
 - [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
 - [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Writing Generator
+
+- [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
