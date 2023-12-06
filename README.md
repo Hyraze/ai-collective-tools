@@ -160,6 +160,7 @@ Use these hashtags in search to filter out the tools
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
+- [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
