@@ -109,6 +109,7 @@ Use these hashtags in search to filter out the tools
 - [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
 - [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
 - [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
+-[3DFY](https://app.3dfy.ai/) - Generate high-quality 3D models, automatically, in certain object categories using text-prompts. `#paid`
 -
 
 **[⬆️ Back to Top](#table-of-contents)**
