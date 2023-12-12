@@ -85,6 +85,7 @@ Use these hashtags in search to filter out the tools
 - [Summarizer](#summarizer)
 - [Testing](#testing)
 - [Text to Speech](#text-to-speech)
+- [Text to Image](#text-to-image)
 - [Transcriber](#transcriber)
 - [Travel](#travel)
 - [Video Editing](#video-editing)
@@ -366,6 +367,7 @@ Use these hashtags in search to filter out the tools
 ## HealthCare
 
 - [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
+- [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free` 
 - [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -395,6 +397,7 @@ Use these hashtags in search to filter out the tools
 - [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 
 - [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
+- [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 - [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
 - [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
@@ -644,10 +647,17 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Text to Image
+
+- [FollowFox](https://followfox.ai/) - Open-source text-to-image generator with impressive features and capabilities. `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Transcriber
 
 - [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology `#freemium`
 - [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
+- [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -667,6 +677,7 @@ Use these hashtags in search to filter out the tools
 
 ## Video Generator
 
+- [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 - [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 - [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
@@ -678,6 +689,7 @@ Use these hashtags in search to filter out the tools
 ## Writing Generator
 
 - [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
+- [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
