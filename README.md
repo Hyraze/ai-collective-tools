@@ -283,7 +283,6 @@ Use these hashtags in search to filter out the tools
 ## Finance
 
 - [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
-- [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
 - [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
 - [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
 - [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
@@ -299,6 +298,8 @@ Use these hashtags in search to filter out the tools
 - [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds `#free`
 - [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. `#paid`
 - [Zing Coach](https://zing.body.scan.zingproduction.com/) - AI-powered fitness tool, streamlines the process of evaluating fitness levels `#free`
+- [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
