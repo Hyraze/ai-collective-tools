@@ -396,8 +396,7 @@ Use these hashtags in search to filter out the tools
 ## Image Generator
 
 - [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
-
-- [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
+- [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
 - [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 - [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
@@ -405,6 +404,7 @@ Use these hashtags in search to filter out the tools
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
 - [removebg](https://remove.bg/) - Remove any Image Background `#free`
+- [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
 - [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 - [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 - [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
@@ -681,6 +681,7 @@ Use these hashtags in search to filter out the tools
 ## Video Generator
 
 - [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
+- [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 - [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 - [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
