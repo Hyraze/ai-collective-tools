@@ -226,6 +226,7 @@ Use these hashtags in search to filter out the tools
 - [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 - [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 - [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
+- [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
 
 ## Developer
 
@@ -552,6 +553,7 @@ Use these hashtags in search to filter out the tools
 
 ## Search Engine
 
+- [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
 - [Anse](https://anse.app/) - Your Elegant AI Answer Companion `#paid`
 - [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search `#free`
 - [Hai News](https://hai.news/) - Search with generative AI - Hai News `#free`
