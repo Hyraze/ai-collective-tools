@@ -185,6 +185,7 @@ Use these hashtags in search to filter out the tools
 ## Cooking
 
 - [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
+- [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - Your AI-Powered Recipe Generator `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
