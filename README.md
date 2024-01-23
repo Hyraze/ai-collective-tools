@@ -413,6 +413,7 @@ Use these hashtags in search to filter out the tools
 - [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 - [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
 - [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
+- [Leonardo](https://leonardo.ai) - Text-to-image Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency `#free`
 - [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 - [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 - [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
