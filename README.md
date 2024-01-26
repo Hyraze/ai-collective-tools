@@ -499,7 +499,7 @@ Use these hashtags in search to filter out the tools
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Presentations
--[gamma.app](https://gamma.app) - Gamma is a new platform that allows users to create polished documents, presentations, and webpages in seconds using AI.`freemium`
+- [gamma.app](https://gamma.app) - Gamma is a new platform that allows users to create polished documents, presentations, and webpages in seconds using AI. `freemium`
 - [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. `#freemium`
 **[⬆️ Back to Top](#table-of-contents)**
 
