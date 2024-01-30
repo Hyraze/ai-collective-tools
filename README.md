@@ -165,6 +165,7 @@ Use these hashtags in search to filter out the tools
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 - [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
+- [Tidio](https://www.tidio.com/) - Tidio Live Chat & AI Chatbots , Accelerate your growth with AI customer service `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
