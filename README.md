@@ -238,7 +238,8 @@ Use these hashtags in search to filter out the tools
 - [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 - [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
 - [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
-
+- [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
+  
 ## Developer
 
 - [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
@@ -427,7 +428,6 @@ Use these hashtags in search to filter out the tools
 - [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
 - [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 - [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
-
 
 **[⬆️ Back to Top](#table-of-contents)**
 
