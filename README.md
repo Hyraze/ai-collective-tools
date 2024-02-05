@@ -179,6 +179,7 @@ Use these hashtags in search to filter out the tools
 - [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
+- [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
