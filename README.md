@@ -717,6 +717,7 @@ Use these hashtags in search to filter out the tools
 
 - [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 - [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
+- [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 - [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 - [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
