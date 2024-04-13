@@ -471,6 +471,7 @@ Use these hashtags in search to filter out the tools
 
 ## Models
 
+- [AI/ML API](https://aimlapi.com) - One API, 100+ AI Models, Accessible 24/7. `#opensource``#freemium``#paid`
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 - [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. `#paid`
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. `#free`
