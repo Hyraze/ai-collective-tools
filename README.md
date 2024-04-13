@@ -162,6 +162,7 @@ Use these hashtags in search to filter out the tools
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
+- [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 - [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
@@ -240,8 +241,10 @@ Use these hashtags in search to filter out the tools
 - [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 - [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
 - [Galileo AI](https://www.usegalileo.ai/explore) -Galileo AI is a UI generation platform for easy and fast design ideation.Generative AI for user interface design, empowering you to design beyond imagination with speed . `#freemium`
+- [Fly.io](https://openui.fly.dev/ai/) - Generate a modal popup for user feedback, including text area and submit button. Create a sticky header that becomes visible when scrolling up and hides on,It also convert our screenshot to UI/UX designs. `free`
 - [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
 - [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
+
   
 ## Developer
 
@@ -522,6 +525,7 @@ Use these hashtags in search to filter out the tools
 - [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. `#free`
 - [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
 - [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
+- [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
 - [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 - [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
