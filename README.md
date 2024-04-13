@@ -712,6 +712,7 @@ Use these hashtags in search to filter out the tools
 - [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
 - [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 - [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
+- [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -727,6 +728,7 @@ Use these hashtags in search to filter out the tools
 - [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 - [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
 - [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
+- [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 - [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 - [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
