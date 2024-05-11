@@ -734,6 +734,7 @@ Use these hashtags in search to filter out the tools
 - [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
 - [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
 - [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
+- [Syllaby.io](https://ai.syllaby.io) - AI Video Script Generator, Syllaby shows you how to create a content strategy for social media in minute `paid`
 - [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
