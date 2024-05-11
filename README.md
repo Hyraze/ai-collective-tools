@@ -530,6 +530,7 @@ Use these hashtags in search to filter out the tools
 - [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
 - [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
 - [Taskade](https://www.taskade.com/) - Taskade elegantly unifies your team tasks, notes, and mind, stripping away the noise to reveal the essence of productivity. `#freemium`
+- [Uizard](https://uizard.io) - With this AI tool you can create a beautiful website and app `paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
