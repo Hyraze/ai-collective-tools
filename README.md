@@ -140,9 +140,11 @@ Use these hashtags in search to filter out the tools
 - [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
 - [Audiogen](https://www.audiogen.co/) - Elevate Your Creations with AI-Generated Sounds `#freemium`
 - [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
+- [Diktatorial Suite](https://diktatorial.com) - Audio mastering and music enhancer with text prompts. `#freemium`
 - [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
 - [Krisp](https://krisp.ai) - Krisp's AI removes background noise & echo from meetings `#freemium`
 - [VideoDubber](https://videodubber.ai) - Offers free video translation, dubbing, voice cloning, and text-to-speech services. `#freemium`
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
