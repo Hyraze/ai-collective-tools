@@ -723,6 +723,7 @@ Use these hashtags in search to filter out the tools
 - [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 - [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
 - [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`
+- [Famxplor](https://famxplor.com/) - Find activities for your family vacations worldwide. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
