@@ -419,6 +419,7 @@ Use these hashtags in search to filter out the tools
 
 - [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 - [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `freemium`
+- [GenPictures](https://www.getconverse.com/pics) - Create stunning AI art, images, and pictures in seconds for free with GenPictures. Turn your text into visual masterpieces effortlessly. `freemium`
 - [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
 - [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 - [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
