@@ -679,12 +679,14 @@ Use these hashtags in search to filter out the tools
 ## Summarizer
 
 - [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
+- [ChatPulse](https://chatpulse.dev) -ChatPulse allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away!. `#freemium`
 - [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
 - [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
 - [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
 - [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 - [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
 - [Too Long](https://toolongapp.com/) - Your Article Summarization Companion `#free`
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
