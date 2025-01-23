@@ -376,6 +376,7 @@ Use these hashtags in search to filter out the tools
 - [Intelli Gift](https://intelli.gift/) - Gift smarter with intelli.gift - The AI-powered gift advisor `#free`
 - [Lazy Cards](https://lazy.cards/) - Lazy Cards is a convenient and thoughtful service that offers AI-written greeting cards for various occasions `#free`
 - [Magic Type AI](https://www.magictype.ai/) - Write greetings, poetry and rap lyrics using AI. `#free`
+- [myGiftAgent](https://www.mygiftagent.com/) - Your AI-powered gift recommendation assistant, helping you find the perfect presents for your loved ones. `#free`
 - [Outdone](https://www.outdone.io/) - Outdone is a gift recommender that simplifies the process of shopping for special occasions `#free`
 - [Perfectgift](https://perfectgift.ai/) - PerfectGift.AI is an AI-powered tool that generates personalized gift ideas for any occasion by utilizing advanced Artificial Intelligence algorithms. `#free`
 - [Santa AI](https://www.santa.artflow.ai/) - Create your own unique Santa video greeting `#free`
