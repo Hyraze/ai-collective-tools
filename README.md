@@ -274,6 +274,7 @@ Use these hashtags in search to filter out the tools
 - [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity `#freemium`
 - [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
 - [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. `#freemium`
+- [Quizb](https://quizb.ai) - Generate engaging quiz questions effortlessly with QuizB.ai. Harness the power of AI to create customized quizzes for education, training, and fun. `#freemium`
 - [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 - [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
 - [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
@@ -639,6 +640,7 @@ Use these hashtags in search to filter out the tools
 - [DataDistillr](https://datadistillr.com/) - Integrating your data has never been easier. `#paid`
 - [Dataspot](https://dataspot.ai/) - Understand any data instantly using AI `#freemium`
 - [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
+- [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 - [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
 - [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
 - [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. `#freemium`
