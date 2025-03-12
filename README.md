@@ -29,6 +29,7 @@ Use these hashtags in search to filter out the tools
 # Table of Contents
 
 - [3D](#3d)
+- [App Builder](#app-builder)
 - [Agriculture](#agriculture)
 - [Art](#art)
 - [Audio Editing](#audio-editing)
@@ -115,6 +116,10 @@ Use these hashtags in search to filter out the tools
 - [Wonder Dynamics](https://wonderdynamics.com/) -  Specializes in AI-driven tools for creating 3D visual effects and character animation, enabling users to integrate 3D characters into live-action footage​. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## App Builder
+
+-[Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer.`#free`
 
 ## Agriculture
 
@@ -537,6 +542,7 @@ Use these hashtags in search to filter out the tools
 - [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
 - [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
 - [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
+- [Multi Gen](https://multi-gen-ai.vercel.app/) - Multi-Gen: All-in-one AI platform for content and productivity solutions. `#free` 
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 - [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
