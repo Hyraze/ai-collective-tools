@@ -171,6 +171,7 @@ Use these hashtags in search to filter out the tools
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
 - [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot `#freemium`
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
+- [nGPT](https://github.com/nazdridoy/ngpt) - A Swiss army knife for LLMs with interactive chat, multiple provider support (OpenAI, Ollama, Groq, Claude), and conversation memory. `#opensource` `#free`
 - [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 - [Tidio](https://www.tidio.com/) - Tidio Live Chat & AI Chatbots , Accelerate your growth with AI customer service `#freemium`
@@ -186,6 +187,7 @@ Use these hashtags in search to filter out the tools
 - [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 - [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
+- [nGPT](https://github.com/nazdridoy/ngpt) - Versatile Python CLI tool and library for clean code generation, git commit message crafting, and shell command execution. `#opensource` `#free`
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 - [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
 - [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
@@ -258,6 +260,7 @@ Use these hashtags in search to filter out the tools
 - [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
 - [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
 - [Floom](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+- [nGPT](https://github.com/nazdridoy/ngpt) - Python LLM framework and library for building AI-powered CLI tools, with components for rendering, conversation management, and configuration. `#opensource` `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -519,6 +522,7 @@ Use these hashtags in search to filter out the tools
 
 - [Better Synonyms](https://www.bettersynonyms.com/) - A convenient way to find better synonyms for words in a specific context. `#free`
 - [Franz AI](https://chrome.google.com/webstore/detail/franz-ai-text-rewriter/lclcncbdhfpolppomniofbkiaaebaefg) - A Chrome extension to rewrite text using OpenAI API. `#free`
+- [nGPT](https://github.com/nazdridoy/ngpt) - Python CLI tool with text rewriting that preserves original tone and meaning while improving quality. `#opensource` `#free`
 - [Penelope AI](https://penelope-ai.vercel.app/) - Speed up writing with paraphrasing, summarizing and story generation `#paid`
 - [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. `#freemium`
 - [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology `#free`
@@ -547,6 +551,7 @@ Use these hashtags in search to filter out the tools
 - [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
 - [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 - [Multi Gen](https://multi-gen-ai.vercel.app/) - Multi-Gen: All-in-one AI platform for content and productivity solutions. `#free` 
+- [nGPT](https://github.com/nazdridoy/ngpt) - Boost developer productivity with a CLI tool for text rewriting, git commit message generation, interactive chatting, and shell command execution. `#opensource` `#free`
 - [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 - [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 - [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
