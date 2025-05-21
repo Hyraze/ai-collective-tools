@@ -398,6 +398,7 @@ Use these hashtags in search to filter out the tools
 - [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
 - [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
 - [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
+- [BestBuyClues](https://bestbuyclues.com/) - Your AI Gift Ideas Generator `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
