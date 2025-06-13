@@ -185,6 +185,7 @@ Use these hashtags in search to filter out the tools
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
 - [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 - [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
+- [Keploy](https://keploy.io/) - AI-powered automation API and Unit testing, latest UTG pr agent generates unit tests after each pr. `#free`
 - [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 - [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 - [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
